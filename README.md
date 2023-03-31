@@ -1,11 +1,11 @@
-# API Spring Scurity com autenticação integrada a banco de dados Mysql
+# API Spring Scurity with authentication integrated into the MySQL database
 
-## Ferramentas utilizadas
+## Frameworks used
 * IDE Intellij
 * Spring Security Initializr
 * Mysql 8
 * Java 19
 
-Implementação de autenticação e autorização, com regras para cada usuario. Não foi implementado autorização mas tem o escopo
-para ser feito.
-Url [Aplicação que implementa o consumo dessa API](https://github.com/MaiconMessias/Angular-Authentication-Authorizaion-with-API).
+Implementation of authentication and authorization, with rules for each user. Authorization has not been implemented but has the scope
+to be done.
+Url [Application that implements the consumption of this API](https://github.com/MaiconMessias/Angular-Authentication-Authorizaion-with-API).
